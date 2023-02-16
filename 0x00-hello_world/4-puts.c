@@ -1,9 +1,8 @@
 #include <stdio.h>
 
-int main(void)
+int main(0)
 {
-	int a;
-	puts("\"Programming is like building %s multilingual puzzle");
+	puts("\"Programming is like building a  multilingual puzzle");
 	getchar();
 	return (0);
 }
