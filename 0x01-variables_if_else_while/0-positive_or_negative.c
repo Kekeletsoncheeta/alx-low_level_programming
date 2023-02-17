@@ -20,14 +20,17 @@ int main(void)
 	if (n < 0)
 {
 	printf("%d is negative\n", n);
-}       else
+}       
+	else
 {
 	printf("%d is positive\n", n);
-}
-	while ( (n = 0) );
+}	
+	while ((n = 0))
 {
 	printf("%d is zero\n", n);
+	break;
 	
 }
+		
 	return (0);
 }
