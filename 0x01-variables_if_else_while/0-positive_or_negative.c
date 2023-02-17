@@ -27,7 +27,7 @@ int main(void)
 	printf("%d is positive\n", n);
 
 }
-	for (n = 0; (n = 0);)
+for (n = 0; (n = 0);)
 {
 	printf("%d is zero\n", n);
 
