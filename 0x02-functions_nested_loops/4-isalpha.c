@@ -5,7 +5,6 @@
  * @c: The character to be checked
  * Return: 1 for alphabetic charactern or 0 for anything else
  */
-
 int _isalpha(int c)
 {
 
@@ -15,4 +14,3 @@ int _isalpha(int c)
 }
 	return (0);
 }
-
